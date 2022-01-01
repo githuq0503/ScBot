@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://h.top4top.io/p_2036i19a30.jpg" alt="LeonGanz" width="500" />
 
-# KamiKaze
+# LEON
 
 > Yui-Chan is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
 >
