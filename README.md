@@ -1,19 +1,19 @@
 <div align="center">
-<img src="https://i.ibb.co/p0p7nMZ/IMG-20211026-084119.jpg" alt="YT KAMIKAZE" width="500" />
+<img src="https://h.top4top.io/p_2036i19a30.jpg" alt="LeonGanz" width="500" />
 
 # KamiKaze
 
-> Senya Bot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
+> Yui-Chan is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
 >
 >
 
 <h3 align="center">Made with ❤️ by</h3>
 <p align="center">
-  <a href="https://github.com/kamikaze2325/ScBot"><img src="https://avatars.githubusercontent.com/u/81684610?s=400&u=25765902db0b709938966cf4127ac11af5eafb5d&v=4" height="128" width="128" /></a>
+  <a href="https://github.com/Bl4ck-lion/ScBot"><img src="https://avatars.githubusercontent.com/u/81684610?s=400&u=25765902db0b709938966cf4127ac11af5eafb5d&v=4" height="128" width="128" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/kamikaze2325/ScBot"><img title="Author" src="https://img.shields.io/badge/Author-KAMIKAZE-purple.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Bl4ck-lion/ScBot"><img title="Author" src="https://img.shields.io/badge/Author-LeonGanz-purple.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
 <a href="https://github.com/kamikaze2325/ScBot/followers"><img title="Followers" src="https://img.shields.io/github/followers/kamikaze2325?color=blue&style=flat-square"></a>
@@ -45,7 +45,7 @@
 # Instalasi
 ## For Windows
 ```bash
-git clone https://github.com/kamikaze2325/ScBot
+git clone https://github.com/Bl4ck-lion/ScBot
 cd ScBot
 npm install
 node main
@@ -55,7 +55,7 @@ node main
 termux-setup-storage
 pkg update && pkg upgrade
 pkg install nodejs git ffmpeg libwebp 
-git clone https://github.com/kamikaze2325/ScBot
+git clone https://github.com/Bl4ck-lion/ScBot
 cd ScBot
 npm install
 npm start
@@ -95,3 +95,4 @@ webpmux -version
 # THANKS
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Xinz`](https://github.com/Xinz-Team)
+* [`LeonGanz`] (https://github.com/LeonGanz)
